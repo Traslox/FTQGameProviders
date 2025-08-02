@@ -20,7 +20,7 @@ No, I don't have money to afford this. If I had, I won't.
 
 1. You can use secret command /devmode for modification of app. It's a debugging tool to understand xbox store's agressive behavior.
 2. Steam and Epic Games are the launchers very easy to beat, but xbox app ise the though guy.
-3. I tried to write the code more readable, I'm a junnior, please understand in the start.
+3. I tried to write the code more readable, I'm a junior, please understand in the start.
 
 # Disclaimer
 
