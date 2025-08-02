@@ -1,6 +1,6 @@
 # FTQGameProviders
 
-Made mainly for GOG Galaxy.
+Mainly made for GOG Galaxy.
 
 ## Some answers to some questions
 
