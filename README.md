@@ -16,6 +16,9 @@ It's open source just ask to the AI or some expert.
 Is the application using connection for any server while monotoring?
 No, I don't have money to afford this. If I had, I won't.
 
+Are there any regular bugs?
+Yes, there is a bug for steam required games, the app closing games too.
+
 ## Tips:
 
 1. You can use secret command /devmode for modification of app. It's a debugging tool to understand xbox store's agressive behavior.
